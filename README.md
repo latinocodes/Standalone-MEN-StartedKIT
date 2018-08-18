@@ -1,4 +1,4 @@
-# MERN - Stack Started Kit
+# MONGODB EXPRESS NODE with JWT Auth Mechanism - Stack Started Kit
 
 A simple server side startup kit with Webpack, Babel, and Nodemon configuration to set development environment setup for Node-Express-MongoDB based web application development. Authentication already out the box with JWT for building RESTful APIs.
 
